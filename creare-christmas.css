@@ -1,0 +1,12 @@
+.form-table .small-text { 
+	width:100px;
+	background:url(datepicker/images/datepicker-icon.gif) no-repeat 82px 5px;
+}
+
+div.crearefooter {
+	border-top: 1px solid #dfdfdf;
+}
+
+.crearefooter p {
+	color:#777 !important;
+}
